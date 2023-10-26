@@ -7,6 +7,7 @@ https://web.archive.org/web/20220130105643/http://www.mouseprints.net/Photoshop.
 https://web.archive.org/web/20210419210422/http://www.mouseprints.net/old/dpr/PhotoCollageToolkit.html
 
 
+
 NOTE:
 
 If you receive the following error in later versions of Photoshop:
