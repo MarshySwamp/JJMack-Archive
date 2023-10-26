@@ -1,4 +1,4 @@
-// If you receive the following error in later versions of Photoshop when running the "Note: BatchUpdateSmartObject.jsx" script:
+// Note: If you receive the following error in later versions of Photoshop when running the "BatchUpdateSmartObject.jsx" script:
 
 // Error: General Photoshop error occurred. This functionality may not be available in this version of Photoshop. - <no additional information available>: on line 578
 
