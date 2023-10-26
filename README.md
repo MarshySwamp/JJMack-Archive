@@ -10,6 +10,7 @@ __________
 October 2023 Note: BatchUpdateSmartObject.jsx
 
 If you receive the following error in later versions of Photoshop:
+
 Error: General Photoshop error occurred. This functionality may not be available in this version of Photoshop. - <no additional information available>: on line 578
 
 Then change line 327 from:
